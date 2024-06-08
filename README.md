@@ -17,6 +17,3 @@ Este repositorio contiene scripts para automatizar la reserva de clases de gimna
 - Python 3.x
 - Bibliotecas: requests, BeautifulSoup, selenium
 
-Instala las dependencias necesarias con:
-```sh
-pip install -r requirements.txt
