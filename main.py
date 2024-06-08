@@ -49,8 +49,8 @@ if __name__ == '__main__':
         else:
             substring = "SALSA CARDIO \\\\&quot;AL L.MIT\\\\&quot;"
             txt_hora = '18:15'
-            usr = "38859752X"
-            pwd = "A1982fcfi"
+            usr = "XXX"
+            pwd = "XXX"
 
     elif date.today().strftime("%A") == "Sunday":
         hora = int(datetime.datetime.now().hour)
@@ -58,13 +58,13 @@ if __name__ == '__main__':
         if hora < 15:
             substring = "ESQUENA SANA"
             txt_hora = '10:30'
-            usr = "53032274R"
-            pwd = "11061982"
+            usr = "XXX"
+            pwd = "XXX"
         else:
             substring = "SH\*BAM \\\\&quot;AL L.MIT\\\\&quot;"
             txt_hora = '19:15'
-            usr = "38859752X"
-            pwd = "A1982fcfi"
+            usr = "XXX"
+            pwd = "XXX"
 
     print(substring)
 
